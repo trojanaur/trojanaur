@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @trojanaur
+- 👀 I’m interested in WEBDEV
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on JS
+- 📫 How to reach me ...
+- 😄 Pronouns: SKY\HE
+- ⚡ Fun fact: PYTHON is a snake
